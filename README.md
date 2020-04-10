@@ -1,1 +1,7 @@
-# Association_Rule
+# Association Rule  
+  
+### Applications of Association Rule  
+    
+### Apriori Algorithm:  
+  
+### Eclat Algorithm:  
