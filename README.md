@@ -16,4 +16,7 @@ Discovering rules that indicate the likely occurance of an item based on the occ
     
 ### Apriori Algorithm:  
   
-### Eclat Algorithm:  
+### FP-Growth Algorithm:  
+  
+### Fp-Growth vs Apriori :  
+![Scalability](/images/FP_Growth_vs_Apriori.jpg) 
