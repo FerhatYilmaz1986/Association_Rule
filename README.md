@@ -1,5 +1,5 @@
 # Association Rule  
-###Definition :  
+### Definition :  
 Discovering rules that indicate the likely occurance of an item based on the occurrences of other items in the transaction  
 ### Fundamentals:  
 - Set theory :  
